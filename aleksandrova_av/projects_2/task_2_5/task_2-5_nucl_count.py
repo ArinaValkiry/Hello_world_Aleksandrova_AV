@@ -27,6 +27,8 @@ perc_G = (count_G / dna_length) * 100
 perc_C = (count_C / dna_length) * 100
 
 # Вывод данных
+
+
 print(f"\nПоследовательность в верхнем регистре: {dna_upper}")
 print(f"\nПодсчёт нуклеотидов:\nA: {count_A}\nT: {count_T}\nG: {count_G}\nC: {count_C}")
 print(f"\nОбщая длина: {dna_length} нуклеотидов")
