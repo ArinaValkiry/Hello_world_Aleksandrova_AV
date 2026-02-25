@@ -8,4 +8,4 @@ Created on Thu Feb 19 17:27:50 2026
 name = input("Введите имя: ")
 age = input("Возраст: ")
 
-print("Студент", name, sep=" : ", end="!\n")
+print("Студент", name, sep= " : ", end= "!\n")
