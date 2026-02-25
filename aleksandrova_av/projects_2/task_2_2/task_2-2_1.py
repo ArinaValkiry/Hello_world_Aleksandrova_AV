@@ -9,5 +9,4 @@ course_name = "IT"
 current_stage = "2-2_1"
 tasks_completed = 7
 
-print(f"Название курса: {course_name}\nНомер текущего этапа: {
-      current_stage}\nКоличество выполненных задач: {tasks_completed}")
+print(f"Название курса: {course_name}\nНомер текущего этапа: {current_stage}\nКоличество выполненных задач: {tasks_completed}")
