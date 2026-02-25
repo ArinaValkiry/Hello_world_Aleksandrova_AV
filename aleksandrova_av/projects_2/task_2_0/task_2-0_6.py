@@ -6,5 +6,5 @@ Created on Thu Feb 19 17:17:21 2026
 """
 
 f = open("output.txt", "w", encoding="utf-8")
-print("Aleksandrova Arina", file=f)
+print("Aleksandrova Arina, 18 y.o.", file=f)
 f.close()
