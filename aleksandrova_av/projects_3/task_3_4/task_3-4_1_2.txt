@@ -1,0 +1,30 @@
+ls -lah
+
+итого 2,1G
+drwxr-xr-x  22 root root 4,0K дек  4 22:41 .
+drwxr-xr-x  22 root root 4,0K дек  4 22:41 ..
+lrwxrwxrwx   1 root root    7 дек  3 21:09 bin -> usr/bin
+drwxr-xr-x   2 root root 4,0K фев 26  2024 bin.usr-is-merged
+drwxr-xr-x   4 root root 4,0K фев 19 19:42 boot
+drwxr-xr-x   2 root root 4,0K дек  3 21:19 cdrom
+drwxr-xr-x  20 root root 4,3K мар  5 13:55 dev
+drwxr-xr-x 149 root root  12K фев 19 19:42 etc
+drwxr-xr-x   3 root root 4,0K дек  3 21:20 home
+lrwxrwxrwx   1 root root    7 дек  3 21:09 lib -> usr/lib
+lrwxrwxrwx   1 root root    9 дек  3 21:09 lib64 -> usr/lib64
+drwxr-xr-x   2 root root 4,0K апр  8  2024 lib.usr-is-merged
+drwx------   2 root root  16K дек  3 21:09 lost+found
+drwxr-xr-x   3 root root 4,0K дек  5 15:05 media
+drwxr-xr-x   2 root root 4,0K авг 28  2025 mnt
+drwxr-xr-x   3 root root 4,0K фев 19 14:14 opt
+dr-xr-xr-x 302 root root    0 мар  5 13:54 proc
+drwx------   8 root root 4,0K дек  4 22:43 root
+drwxr-xr-x  35 root root  900 мар  5 14:20 run
+lrwxrwxrwx   1 root root    8 дек  3 21:09 sbin -> usr/sbin
+drwxr-xr-x   2 root root 4,0K мар 31  2024 sbin.usr-is-merged
+drwxr-xr-x   2 root root 4,0K авг 28  2025 srv
+-rw-------   1 root root 2,0G дек  3 21:09 swapfile
+dr-xr-xr-x  13 root root    0 мар  5 13:54 sys
+drwxrwxrwt  20 root root 4,0K мар  5 14:35 tmp
+drwxr-xr-x  12 root root 4,0K авг 28  2025 usr
+drwxr-xr-x  11 root root 4,0K дек  3 21:26 var
