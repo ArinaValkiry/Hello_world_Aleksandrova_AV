@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo -e "\nСумма всех оценок студентов: "
+awk '{ sum += $2 } END { print sum }' students.txt
+
+echo -e "\nСредняя оценка: "
+awk '{ sum += $2 } END { print sum/NR }' students.txt
+
+echo -e "\nМаксимальная оценка: "
+awk 'NR==1 { max=$2 } $2>max { max=$2 } END {print max}' students.txt
