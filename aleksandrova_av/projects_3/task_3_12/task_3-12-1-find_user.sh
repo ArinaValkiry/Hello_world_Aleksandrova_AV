@@ -1,0 +1,1 @@
+grep arina /etc/passwd
